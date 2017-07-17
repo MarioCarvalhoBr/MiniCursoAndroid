@@ -9,7 +9,7 @@
 <b>Motivação</b>
 	*Dispertar o interesse dos acadêmicos para o mundo mobile (Lado Android da Força ).
 <b>Objetivo</b>
-	*Ensinar as principais técnicas de desenvolvimento Android, apresentando as ferramentas e os principais componentes do processo de desenvolvimento de um aplicativo.
+	*Ensinar as principais técnicas de desenvolvimento Android, apresentando as </br>ferramentas e os principais componentes do processo de desenvolvimento de um aplicativo.
 
 <b>Ministrante do minicurso:
 	Discente: Mário de Araújo Carvalho
