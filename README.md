@@ -44,16 +44,16 @@
 
 <pre>
 <b>Introdução</b>
-   Aula 01:
+   Aula 01 (13/07/2017):
 	*Sobre o minicurso	
 	*Lógica de programação
 	*Introdução ao Java com Orientação a Objetos
-   Aula 02:
+   Aula 02 (14/07/2017):
 	*Palestra sobre o Android
 	*Conhecendo o Android Studio
 	*Introdução a paleta de design
 	*Primeiro projeto - HelloWorld
-   Aula 03:
+   Aula 03 (20/07/2017):
 	*Conceitos de Activity
 	*TextView: Exibindo textos na tela
 	*EditText: Caixas de entrada de textos
