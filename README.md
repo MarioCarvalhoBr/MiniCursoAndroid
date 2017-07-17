@@ -17,14 +17,14 @@
 	E-mail: mariodearaujocarvalho@gmail.com
 	GitHub: <a href="https://github.com/MarioDeAraujoCarvalho" target="_blank">https://github.com/MarioDeAraujoCarvalho</a>
 	Unidade: UFMS - CPPP
-	Grupo:<a href="http://pet.nerdsdafronteira.com/" target="_blank">PET Fronteira</a>
+	Grupo: <a href="http://pet.nerdsdafronteira.com/" target="_blank">PET Fronteira</a>
 <b>
 
 <b>Orientador:
 	Docente: Profº. Dr. Anderson Lima
 	E-mail: anderson.correa.lima@gmail.com
 	Unidade: UFMS - CPPP
-	Grupo:<a href="#" target="_blank">GIRA</a>
+	Grupo: <a href="#" target="_blank">GIRA</a>
 <b> 
 </pre>
 
@@ -85,7 +85,8 @@
 
 <b>Seu site usa essa biblioteca? Você pode promovê-lo aqui! Basta enviar o seu pedido que serei feliz em divulgar.</b>
 
-#Sobre uso dos códigos e apresentações desenvolvidos no minicurso<br>
+#Sobre uso dos códigos e apresentações desenvolvidos no minicurso
+===================
 Os códigos desenvolvidos durante o minicurso são totalmente 
 gratuitos e estão sobre a Licença Apache 2.0 e podem ser usuados segundo os termos da licença.
 Já as apresentações são de propriedade intelectual da UFMS-CPPP, Grupo PET Fronteira e Grupo GIRA. Qual utilização de 
@@ -93,6 +94,7 @@ alguma parte das apresentações, devem ser citados as entidades acima como prop
 <br>
 
 #Licença
+===================
 ``` 
         Copyright 2017 Mário de Araújo Carvalho
  
