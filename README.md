@@ -39,6 +39,30 @@
 <b>
 </pre>
 
+# Módulo 0
+<strong>Introdução, primeiras noções, ferramentas e materiais de estudo</strong>
+
+<pre>
+<b>Introdução</b>
+   Aula 01:
+	*Sobre o minicurso	
+	*Lógica de programação
+	*Introdução ao Java com Orientação a Objetos
+   Aula 02:
+	*Palestra sobre o Android
+	*Conhecendo o Android Studio
+	*Introdução a paleta de design
+	*Primeiro projeto - HelloWorld
+   Aula 03:
+	*Conceitos de Activity
+	*TextView: Exibindo textos na tela
+	*EditText: Caixas de textos
+	*Button: Butões na aplicação
+	*Toast: Exibindo mensagens de alerta
+	*OnClickListener: Pegando os eventos de clique
+</pre>
+
+
 #Sobre uso dos códigos e apresentações desenvolvidos no minicurso
 ===================
 	Os códigos desenvolvidos durante o minicurso são totalmente 
