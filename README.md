@@ -1,36 +1,28 @@
 # Minicurso de Desenvolvimento Android
-===================
-<strong>UserDataCollectorWEB 1.0.0 - Is Utility library for client data collection on PHP pages.</strong>
+<strong>Aprendendo a crias suas prṕrias aplicações e destaque-se no mercado de trabalho mobile.</strong>
+
+<b>Sobre o projeto:</b>
 
 <pre>
-@Nome: User Data Collector WEB - Biblioteca para coletação de dados.
-@Mini-Descrição: É uma biblioteca utilitária para coletar dados do cliente em páginas online PHP.
-@Versão: 1.0.0.
+<b>Oque é?</b>
+	*Projeto de Ensino do programa PET/Fronteira e GIRA.
+<b>Motivação</b>
+	*Dispertar o interesse dos acadêmicos para o mundo mobile (Lado Android da Força ).
+<b>Objetivo</b>
+	*Ensinar as principais técnicas de desenvolvimento Android, apresentando as ferramentas e os principais componentes do processo de desenvolvimento de um aplicativo.
 
-@Autor: Mario de Araújo Carvalho 
-@E-mail: mariodearaujocarvalho@gmail.com
+<b>Ministrante do minicurso:
+	Discente: Mário de Araújo Carvalho
+	E-mail: mariodearaujocarvalho@gmail.com
+	GitHub: https://github.com/MarioDeAraujoCarvalho
+	Unidade: UFMS - CPPP
+<b>
 
-@Descrição: 
-Classe utilitária para coletar dados do usuário para <b>fins de segurança</b>. O mal 
-uso desta biblioteca fica a responsabilidade do usuário. A ideia é criar uma interface para
-coletar dados do usuário para fins de seguranção da informação. <i>Não nós responsabilizamos
-pelos seus atos, o conhecimento não é crime, o seu mal uso é</i>. 
-Lembre-se: <strong>"Você é o culpado de suas ações"</strong><i>- Jean Paul Sarte.</i> Tenha essa frase tatuada em seu coração :).
-
-@Funções da Biblioteca:
-01: COLETA O IP DO USUÁRIO.
-02: COLETA A DATA E HORÁRIO (HORÁRIO DE BRASÍLA) QUE O USUÁRIO ACESSOU O SITE.
-03: COLETA O SISTEMA OPERACIONAL DO USUÁRIO.
-04: COLETA O NAVEGADOR DO USUARIO.
-05. COLETA O DISPOSITIVO DO USUÁRIO.
-06. COLETA A LATITUDE E LONGITUDE DO USUÁRIO COM BASE NO IP.
-07. COLETA ALGUNS DETALHES ÚTEIS DO USUÁRIO E DO SEU NAVEGADOR.
-
-@Funções Futuras:
-I - COLETAR O ENDEREÇO MAC DO USUÁRIO NO LINUX E WINDOWS.
-
-OBS: <i>Use com responsabilidade, o mal uso desta biblioteca pode </br>lhe trazer sérios problemas com as leis vigentes em seu país.</>
-
+<b>Orientador:
+	Docente: Profº. Dr. Anderson Lima
+	E-mail: anderson.correa.lima@gmail.com
+	Unidade: UFMS - CPPP
+<b> 
 </pre>
 
 <b>ABAIXO segue uma breve DOCUMENTAÇÃO sobre a utilização da biblioteca.</b>
