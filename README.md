@@ -27,7 +27,8 @@
 	Grupo: <a href="#" target="_blank">GIRA</a>
 <b> 
 <b>Material de Apoio:
-	K19 Treinamentos ©: O material de apoio desde minicurso são de propriedade da K19 Treinamentos ©, e todos os direitos são reservados a K19 ©.
+	K19 Treinamentos ©: O material de apoio desde minicurso são de propriedade da K19 Treinamentos ©,
+			    e todos os direitos são reservados a K19 ©.
 	Apostilas da K19 Treinamentos ©: 
 		1º Lógica: k19-k01-logica-de-programacao.pdf
 		2º Orientação a Objetos com Java: k19-k11-orientacao-a-objetos-em-java.pdf
@@ -42,12 +43,13 @@
 ===================
 	Os códigos desenvolvidos durante o minicurso são totalmente 
 	gratuitos e estão sobre a Licença Apache 2.0 e podem ser usuados segundo os termos da licença.
-	Já as apresentações são de propriedade intelectual da UFMS-CPPP, Grupo PET Fronteira e Grupo GIRA. Qual utilização de 
-	alguma parte das apresentações, devem ser citados as entidades acima como proprietárias.</br>
+	Já as apresentações são de propriedade intelectual da UFMS-CPPP, Grupo PET Fronteira e Grupo GIRA. 
+	Qual utilização de alguma parte das apresentações, devem ser citados as entidades acima como proprietárias.
+	
 	O material de apoio são de propriedade da K19 Treinamentos ©. Todos os direitos reservados a K19 ©.
 <br>
 
-#Licença
+#Licença Apache 2.0
 ===================
 ``` 
         Copyright 2017 Mário de Araújo Carvalho
