@@ -26,71 +26,25 @@
 	Unidade: UFMS - CPPP
 	Grupo: <a href="#" target="_blank">GIRA</a>
 <b> 
+<b>Material de Apoio:
+	K19 Treinamentos ©: O material de apoio desde minicurso são de propriedade da K19 Treinamentos ©, e todos os direitos são reservados a K19 ©.
+	Apostilas da K19 Treinamentos ©: 
+		1º Lógica: k19-k01-logica-de-programacao.pdf
+		2º Orientação a Objetos com Java: k19-k11-orientacao-a-objetos-em-java.pdf
+		3º Desenvolvimento Mobile: k19-k41-desenvolvimento-mobile-com-android.pdf
+
+	Github: https://github.com/K19/
+	Facebook: https://www.facebook.com/k19treinamentos
+<b>
 </pre>
-
-<b>ABAIXO segue uma breve DOCUMENTAÇÃO sobre a utilização da biblioteca.</b>
-
- ```php
-		/*Exemplo de utilização da biblioteca*/
-	
-		//Codificação da Página
-		ini_set('default_charset','UTF-8');
-		
-		//Inclusão da biblioteca User Data Collector WEB 1.0.0
-		include_once('UserInformation.php'); // Nome da Classe igual ao nome do arquivo!
-		use UserDataCollector\UserInformation as InfosUser; // Posso nomear como bem entender ao usar namespace
-		
-		//Definição da zona para poder pegar o horário do usuário.
-		date_default_timezone_set('America/Sao_Paulo');
-
-		//Instancia da Classe UserInformation
-		$user_informations = new InfosUser();
-		
-		//Coletando o horário
-		echo 'Horário de Acesso (Brasília): '.$user_informations->get_Data_Horario();
-		echo("<br>");
-		//Coletando o IP (Internet Protocol) do usuário
-		echo 'IP do Usuário: '.$user_informations->get_IP();
-		echo("<br>");
-		//Coletando o Sistema Operacional do usuário
-		echo 'Sistema Operacional: '.$user_informations->get_SO();
-		echo("<br>");
-		//Coletando
-		echo 'Navegador(Browser): '.$user_informations->get_Browser_User();
-		echo("<br>");
-		//Coletando detalhes sobre o navegador e Sistema Operacional do usuário
-		echo 'Mais detalhes sobre o navegador e SO: '.$user_informations->getMaisDetalhesUserAndBrowser();
-		echo("<br>");
-		//Coletando o disposivo do usuário
-		echo 'Dispositivo de Acesso: '.$user_informations->get_Device_User();
-		echo("<br>");
-		
-		/**Coletando a geolocalização
-		 **OBS: No localhost não ira funcionar. Pois você precisará fornecer um IP conectado na WEB.
-		 **
-		 **/
-		$geo_localizacao  = $user_informations->getLocalizacao();
-		//Coletando a latitude do usuário
-		echo 'Latitude: '.$geo_localizacao['latitude'];
-		echo("<br>");
-		//Coletando a longitude do usuário
-		echo 'Longitude: '.$geo_localizacao['longitude'];
-		echo("<br>");
-  ```
-  
-  </br>
-  <b>Seja livre para contribuir com o projeto, usando-o e melhorando.</b>
-  </br>
-  </br>
-
-<b>Seu site usa essa biblioteca? Você pode promovê-lo aqui! Basta enviar o seu pedido que serei feliz em divulgar.</b>
 
 #Sobre uso dos códigos e apresentações desenvolvidos no minicurso
 ===================
-Os códigos desenvolvidos durante o minicurso são totalmente 
-gratuitos e estão sobre a Licença Apache 2.0 e podem ser usuados segundo os termos da licença.
-Já as apresentações são de propriedade intelectual da UFMS-CPPP, Grupo PET Fronteira e Grupo GIRA. Qual utilização de 
-alguma parte das apresentações, devem ser citados as entidades acima como proprietárias.
+	Os códigos desenvolvidos durante o minicurso são totalmente 
+	gratuitos e estão sobre a Licença Apache 2.0 e podem ser usuados segundo os termos da licença.
+	Já as apresentações são de propriedade intelectual da UFMS-CPPP, Grupo PET Fronteira e Grupo GIRA. Qual utilização de 
+	alguma parte das apresentações, devem ser citados as entidades acima como proprietárias.</br>
+	O material de apoio são de propriedade da K19 Treinamentos ©. Todos os direitos reservados a K19 ©.
 <br>
 
 #Licença
