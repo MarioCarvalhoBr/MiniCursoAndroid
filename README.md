@@ -1,11 +1,11 @@
 # Minicurso de Desenvolvimento Android
-<strong>Aprendendo a crias suas prṕrias aplicações e destaque-se no mercado de trabalho mobile.</strong>
+<strong>Aprendendo a criar aplicações para dispositivos móveis e destacando-se no mercado de trabalho.</strong>
 
 <b>Sobre o projeto:</b>
 
 <pre>
 <b>Oque é?</b>
-	*Projeto de Ensino do programa PET/Fronteira e GIRA.
+	*Projeto de Ensino do programa PET Fronteira e GIRA.
 <b>Motivação</b>
 	*Dispertar o interesse dos acadêmicos para o mundo mobile (Lado Android da Força ).
 <b>Objetivo</b>
@@ -15,14 +15,16 @@
 <b>Ministrante do minicurso:
 	Discente: Mário de Araújo Carvalho
 	E-mail: mariodearaujocarvalho@gmail.com
-	GitHub: https://github.com/MarioDeAraujoCarvalho
+	GitHub: <a href="https://github.com/MarioDeAraujoCarvalho" target="_blank">https://github.com/MarioDeAraujoCarvalho</a>
 	Unidade: UFMS - CPPP
+	Grupo:<a href="http://pet.nerdsdafronteira.com/" target="_blank">PET Fronteira</a>
 <b>
 
 <b>Orientador:
 	Docente: Profº. Dr. Anderson Lima
 	E-mail: anderson.correa.lima@gmail.com
 	Unidade: UFMS - CPPP
+	Grupo:<a href="#" target="_blank">GIRA</a>
 <b> 
 </pre>
 
@@ -83,11 +85,11 @@
 
 <b>Seu site usa essa biblioteca? Você pode promovê-lo aqui! Basta enviar o seu pedido que serei feliz em divulgar.</b>
 
-#Desenvolvido por<br>
-Nome: Mário de Araújo Carvalho<br> 
-E-mail: mariodearaujocarvalho@gmail.com<br>
-GitHub: https://github.com/MarioDeAraujoCarvalho<br>
-Título: UserDataCollectorWEB
+#Sobre uso dos códigos e apresentações desenvolvidos no minicurso<br>
+Os códigos desenvolvidos durante o minicurso são totalmente 
+gratuitos e estão sobre a Licença Apache 2.0 e podem ser usuados segundo os termos da licença.
+Já as apresentações são de propriedade intelectual da UFMS-CPPP, Grupo PET Fronteira e Grupo GIRA. Qual utilização de 
+alguma parte das apresentações, devem ser citados as entidades acima como proprietárias.
 <br>
 
 #Licença
@@ -108,4 +110,4 @@ Título: UserDataCollectorWEB
 
 ````
 
-<a href="https://github.com/MarioDeAraujoCarvalho/User-Data-Collector-WEB/blob/master/LICENSE" target="_blank">Mais detalhes sobre a licença</a>
+<a href="https://github.com/MarioDeAraujoCarvalho/MiniCursoAndroid/blob/master/LICENSE" target="_blank">Mais detalhes sobre a licença</a>
