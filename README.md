@@ -7,7 +7,7 @@
 <b>Oque é?</b>
 	*Projeto de Ensino do programa PET Fronteira e GIRA.
 <b>Motivação</b>
-	*Dispertar o interesse dos acadêmicos para o mundo mobile (Lado Android da Força ).
+	*Despertar o interesse dos acadêmicos para o mundo mobile (Lado Android da Força ).
 <b>Objetivo</b>
 	*Ensinar as principais técnicas de desenvolvimento Android, apresentando as 
 	ferramentas e os principais componentes do processo de desenvolvimento de um aplicativo.
@@ -56,8 +56,8 @@
    Aula 03:
 	*Conceitos de Activity
 	*TextView: Exibindo textos na tela
-	*EditText: Caixas de textos
-	*Button: Butões na aplicação
+	*EditText: Caixas de entrada de textos
+	*Button: Botões na aplicação
 	*Toast: Exibindo mensagens de alerta
 	*OnClickListener: Pegando os eventos de clique
 </pre>
