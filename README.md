@@ -27,7 +27,7 @@
 	Grupo: <a href="#" target="_blank">GIRA</a>
 <b> 
 <b>Material de Apoio:
-	K19 Treinamentos ©: O material de apoio desde minicurso são de propriedade da K19 Treinamentos ©,
+	K19 Treinamentos ©: O material de apoio desde minicurso são de propriedade da K19,
 			    e todos os direitos são reservados a K19 ©.
 	Apostilas da K19 Treinamentos ©: 
 		1º Lógica: k19-k01-logica-de-programacao.pdf
