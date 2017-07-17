@@ -42,11 +42,15 @@
 #Sobre uso dos códigos e apresentações desenvolvidos no minicurso
 ===================
 	Os códigos desenvolvidos durante o minicurso são totalmente 
-	gratuitos e estão sobre a Licença Apache 2.0 e podem ser usuados segundo os termos da licença.
-	Já as apresentações são de propriedade intelectual da UFMS-CPPP, Grupo PET Fronteira e Grupo GIRA. 
-	Qual utilização de alguma parte das apresentações, devem ser citados as entidades acima como proprietárias.
+	gratuitos e estão sobre a Licença Apache 2.0 e podem ser usuados 
+	segundo os termos da licença.
+	Já as apresentações são de propriedade intelectual da UFMS-CPPP, 
+	Grupo PET Fronteira e Grupo GIRA. 
+	Qual utilização de alguma parte das apresentações, devem ser citados 
+	as entidades acima como proprietárias.
 	
-	O material de apoio são de propriedade da K19 Treinamentos ©. Todos os direitos reservados a K19 ©.
+	O material de apoio são de propriedade da K19 Treinamentos ©. 
+	(Todos os direitos reservados a K19 ©)
 <br>
 
 #Licença Apache 2.0
