@@ -60,6 +60,12 @@
 	*Button: Botões na aplicação
 	*Toast: Exibindo mensagens de alerta
 	*OnClickListener: Pegando os eventos de clique
+   Aula 04 (21/07/2017):
+	*Trabalhando com variáveis no XML e Java
+	*Operações matemáticas
+	*Operadores condicionais IF e ELSE
+	*Toast: Testando e entendendo
+	*OnClickListener: Pegando os múltiplos eventos
 </pre>
 
 
