@@ -66,18 +66,63 @@
 	*Operadores condicionais IF e ELSE
 	*Toast: Testando e entendendo
 	*OnClickListener: Pegando os múltiplos eventos
+   Aula 05 (27/07/2017):
+	*Conceitos de entrada de textos
+	*Entendendo melhor a comunicação XML e Java
+	*Formatação: Background, textColor, InputType
+	*Multiplos layouts: LinearLayout dento de outro
+	*AlertDialog: Testando e entendendo
+   Aula 06 (28/07/2017):
+	*Conceitos de listas em Android
+	*ListView: Componente para criação de listas
+	*Clique simples: onClickListener
+	*Clique Longo: onLongClickListener
+	*Cliques no ListView: onItemClickListener
+   Aula 07 (28/07/2017):
+	*Conceitos de listas em Android
+	*ListView: Componente para criação de listas
+	*Clique simples: onClickListener
+	*Clique Longo: onLongClickListener
+	*Cliques no ListView: onItemClickListener
+   Aula 08 (03/08/2017):
+	*Conceitos de Ciclo de Vida da Activity
+	*Intent: Entendendo e trabalhando
+	*Bundle: Passando dados pra outra tela
+	*WebView: Criando um navegador
+	*Preparos para o projeto final
+   Aula 09 (04/08/2017):
+	*Proposta de projeto final
+	*Tela Inicial: Exibindo todos os dados
+	*Tela de Detalhes: Exibindo o dados passado por parâmetro
+	*Testes finais no projeto
+   Aula 10 (10/08/2017):
+	*Conceitos de armazenamento em Android
+	*Shared Preferences: Componente para armazenar chaves e valores
+	*SQLite: Banco de dados do Android
+	*Padrão DAO e Adapter: CRUD no banco de dados e listas personalizadas
+	*LogCat: Aprendendo a debugar o código
+
+
 </pre>
 
+# Módulo 1?
+<strong>
+Agora é com você... <br>
+<i>“O mundo não é um grande arco-íris...<br>
+...É um layout, com todos os tamanhos de telas da Samsung.”<br>
+– Rudson Lima, Liveo-O.</i>
+</strong>
 
-#Sobre uso dos códigos e apresentações desenvolvidos no minicurso
+
+#Sobre os materias
+<strong>Códigos e apresentações desenvolvidos no minicurso</strong>
 ===================
 	Os códigos desenvolvidos durante o minicurso são totalmente 
 	gratuitos e estão sobre a Licença Apache 2.0 e podem ser usuados 
 	segundo os termos da licença.
 	Já as apresentações são de propriedade intelectual da UFMS-CPPP, 
-	Grupo PET Fronteira e Grupo GIRA. 
-	Qual utilização de alguma parte das apresentações, devem ser citados 
-	as entidades acima como proprietárias.
+	Grupo PET Fronteira, Grupo GIRA e Mário de Araújo Carvalho. 
+	Qualquer utilização de alguma parte das apresentações, deverá ter o consenso do autor (Mário de Araújo Carvalho) ou citação direta das 		entidades acima como donas da propriedade intelectual.
 	
 	O material de apoio são de propriedade da K19 Treinamentos ©. 
 	(Todos os direitos reservados a K19 ©)

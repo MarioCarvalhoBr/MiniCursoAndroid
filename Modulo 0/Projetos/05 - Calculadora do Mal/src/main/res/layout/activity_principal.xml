@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.synckware.calculadoradomal.PrincipalActivity">
+
+
+    <TextView
+        android:id="@+id/txtTexto1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#004d40"
+        android:textSize="22dp"
+        android:text="Digite o 1º numero:" />
+
+    <EditText
+        android:id="@+id/txtNumero1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Ex: 1" />
+
+    <TextView
+        android:id="@+id/txtTexto2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#004d40"
+        android:textSize="22dp"
+        android:text="Digite o 2º numero:" />
+
+    <EditText
+        android:id="@+id/txtNumero2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Ex: 8" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnSomar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#f44336"
+            android:text="+" />
+
+        <Button
+            android:id="@+id/btnSubtrair"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#9c27b0"
+            android:text="-" />
+        <Button
+            android:id="@+id/btnMult"
+            android:background="#ffff00"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="*" />
+        <Button
+            android:id="@+id/btnDivisao"
+            android:background="#607d8b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="/" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
